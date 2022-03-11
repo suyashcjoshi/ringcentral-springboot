@@ -23,8 +23,5 @@ mvn install
 ./mvnw spring-boot:run
 ```
 
-5. Navigate to **localhost:8080/account** and notice the webpage should say 'Confirmed' which is the status of your developer account that was returned by calling the RingCentral Platform API
-
-
-## Key Concepts
+5. Navigate to **localhost:8080/account** and notice the webpage should say 'Confirmed' which is the status of your developer account that was returned by calling the RingCentral Platform API.
 
