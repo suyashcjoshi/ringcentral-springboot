@@ -13,7 +13,7 @@ A Demo application showing how to use OAuth 2.0 with JWT when connecting with Ri
 ```bash
 rc.clientid = "YOUR APP CLIENT ID"
 rc.clientsecret = "YOUR APP CLIENT SECRET"
-rc.jwt = "YOUR PERSONAL JWT STRING"
+rc.jwt = "YOUR PERSONAL JWT"
 ```
 
 4. Build and Run the Maven Project
